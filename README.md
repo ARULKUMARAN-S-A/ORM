@@ -44,7 +44,7 @@ class MoviesAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2025-04-15 at 22.04.42_1b8f10c4.jpg>)
+![alt text](<movie database.jpg>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
